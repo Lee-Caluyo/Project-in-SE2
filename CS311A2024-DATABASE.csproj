@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B7CDAE26-0B00-43FA-AB5F-2ED88F236A19}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CS311A2024_DATABASE</RootNamespace>
+    <AssemblyName>CS311A2024-DATABASE</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\Downloads\CS311 library\CS311 library\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="frmAddAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddAccount.Designer.cs">
+      <DependentUpon>frmAddAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddBuilt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddBuilt.Designer.cs">
+      <DependentUpon>frmAddBuilt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddParts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddParts.Designer.cs">
+      <DependentUpon>frmAddParts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddRepair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddRepair.Designer.cs">
+      <DependentUpon>frmAddRepair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCartBuilt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCartBuilt.Designer.cs">
+      <DependentUpon>frmCartBuilt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCartParts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCartParts.Designer.cs">
+      <DependentUpon>frmCartParts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuilt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuilt.Designer.cs">
+      <DependentUpon>frmBuilt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHistory.Designer.cs">
+      <DependentUpon>frmHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHistoryBuilt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHistoryBuilt.Designer.cs">
+      <DependentUpon>frmHistoryBuilt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHistoryParts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHistoryParts.Designer.cs">
+      <DependentUpon>frmHistoryParts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHistoryRepair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHistoryRepair.Designer.cs">
+      <DependentUpon>frmHistoryRepair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParts.Designer.cs">
+      <DependentUpon>frmParts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProfile.Designer.cs">
+      <DependentUpon>frmProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRepair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRepair.Designer.cs">
+      <DependentUpon>frmRepair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectMethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectMethod.Designer.cs">
+      <DependentUpon>frmSelectMethod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSignUp.Designer.cs">
+      <DependentUpon>frmSignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateAccount.Designer.cs">
+      <DependentUpon>frmUpdateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateBuilt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateBuilt.Designer.cs">
+      <DependentUpon>frmUpdateBuilt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateCartPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateCartPart.Designer.cs">
+      <DependentUpon>frmUpdateCartPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateCartBuilt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateCartBuilt.Designer.cs">
+      <DependentUpon>frmUpdateCartBuilt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateParts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateParts.Designer.cs">
+      <DependentUpon>frmUpdateParts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateProfile.Designer.cs">
+      <DependentUpon>frmUpdateProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateRepair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateRepair.Designer.cs">
+      <DependentUpon>frmUpdateRepair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUser.Designer.cs">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewBuilt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewBuilt.Designer.cs">
+      <DependentUpon>frmViewBuilt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCart.Designer.cs">
+      <DependentUpon>frmCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewParts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewParts.Designer.cs">
+      <DependentUpon>frmViewParts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewRepair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewRepair.Designer.cs">
+      <DependentUpon>frmViewRepair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAddAccount.resx">
+      <DependentUpon>frmAddAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddBuilt.resx">
+      <DependentUpon>frmAddBuilt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddParts.resx">
+      <DependentUpon>frmAddParts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddRepair.resx">
+      <DependentUpon>frmAddRepair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCartBuilt.resx">
+      <DependentUpon>frmCartBuilt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCartParts.resx">
+      <DependentUpon>frmCartParts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuilt.resx">
+      <DependentUpon>frmBuilt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHistory.resx">
+      <DependentUpon>frmHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHistoryBuilt.resx">
+      <DependentUpon>frmHistoryBuilt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHistoryParts.resx">
+      <DependentUpon>frmHistoryParts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHistoryRepair.resx">
+      <DependentUpon>frmHistoryRepair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParts.resx">
+      <DependentUpon>frmParts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProfile.resx">
+      <DependentUpon>frmProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRepair.resx">
+      <DependentUpon>frmRepair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectMethod.resx">
+      <DependentUpon>frmSelectMethod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSignUp.resx">
+      <DependentUpon>frmSignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateAccount.resx">
+      <DependentUpon>frmUpdateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateBuilt.resx">
+      <DependentUpon>frmUpdateBuilt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateCartPart.resx">
+      <DependentUpon>frmUpdateCartPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateCartBuilt.resx">
+      <DependentUpon>frmUpdateCartBuilt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateParts.resx">
+      <DependentUpon>frmUpdateParts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateProfile.resx">
+      <DependentUpon>frmUpdateProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateRepair.resx">
+      <DependentUpon>frmUpdateRepair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUser.resx">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewBuilt.resx">
+      <DependentUpon>frmViewBuilt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCart.resx">
+      <DependentUpon>frmCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewParts.resx">
+      <DependentUpon>frmViewParts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewRepair.resx">
+      <DependentUpon>frmViewRepair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

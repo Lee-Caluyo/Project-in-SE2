@@ -1,0 +1,178 @@
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe.config
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\MySql.Data.DLL
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.AssemblyReference.cache
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmlogin.resources
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.Properties.Resources.resources
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.GenerateResource.cache
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A20.1984E0CE.Up2Date
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmMain.resources
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmAccounts.resources
+C:\Users\caluy\source\repos\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewaccount.resources
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe.config
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\MySql.Data.DLL
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.AssemblyReference.cache
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmAccounts.resources
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmlogin.resources
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmMain.resources
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewaccount.resources
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateAccounts.resources
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.Properties.Resources.resources
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.GenerateResource.cache
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A20.1984E0CE.Up2Date
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\Downloads\CS311A2024-DATABASE-20240929T073933Z-001\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe.config
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.AssemblyReference.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmAccounts.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmlogin.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmMain.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewaccount.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateAccounts.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.Properties.Resources.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.GenerateResource.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A20.1984E0CE.Up2Date
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE(Backup)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe.config
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.AssemblyReference.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmAccounts.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmlogin.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmMain.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewaccount.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmStudents.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateAccounts.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.Properties.Resources.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.GenerateResource.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A20.1984E0CE.Up2Date
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe.config
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.AssemblyReference.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmAccounts.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmlogin.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmMain.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewaccount.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewStudents.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmStudents.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.Properties.Resources.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.GenerateResource.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A20.1984E0CE.Up2Date
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateStudents.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateAccounts.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.AssemblyReference.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmAccounts.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmCourse.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmlogin.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmMain.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewaccount.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewStudents.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmStudents.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateAccounts.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateStudents.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.Properties.Resources.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.GenerateResource.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe.config
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main) - Students(Done)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A20.1984E0CE.Up2Date
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmCourse.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewCourse.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateCourse.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmStrand.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateStrand.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewStrand.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmViolation.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewViolation.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE (Main)\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateViolation.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe.config
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.AssemblyReference.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmAccounts.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmCourse.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmlogin.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmMain.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewaccount.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewCourse.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewStrand.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewStudents.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewViolation.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmStrand.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmStudents.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateAccounts.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateCourse.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateStrand.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateStudents.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateViolation.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmViolation.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.Properties.Resources.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.GenerateResource.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A20.1984E0CE.Up2Date
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmCase.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmNewCase.resources
+C:\Users\caluy\OneDrive\Desktop\3rd yr 1st sem\Computer Programming 3\Lab\CS311A2024-DATABASE - Main\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateCase.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.AssemblyReference.cache
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.Properties.Resources.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.GenerateResource.cache
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe.config
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.exe
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\bin\Debug\CS311A2024-DATABASE.pdb
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A20.1984E0CE.Up2Date
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmAddAccount.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmAddBuilt.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmAddParts.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmCartBuilt.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmCartParts.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmBuilt.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmLogin.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmMain.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmParts.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmProfile.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmRepair.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmSelectMethod.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmSignUp.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateAccount.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateBuilt.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateParts.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateProfile.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateRepair.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUser.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmViewBuilt.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmCart.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmViewParts.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmViewRepair.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateCartPart.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmUpdateCartBuilt.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmHistory.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmAddRepair.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmHistoryBuilt.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmHistoryParts.resources
+C:\Users\caluy\OneDrive\Desktop\Project in SE2\CS311A2024-DATABASE\CS311A2024-DATABASE\obj\Debug\CS311A2024_DATABASE.frmHistoryRepair.resources
